@@ -56,6 +56,10 @@ body {
   border-radius: 10px;
 }
 
+.input::placeholder {
+  color: black; 
+}
+
 .info {
   padding-bottom: 13px;
 }
@@ -88,7 +92,7 @@ audio::-webkit-media-controls-panel {
 }
 
 .meaning-container{
-  /* display: none; */
+  display: none;
  
      
 }
