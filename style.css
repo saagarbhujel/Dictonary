@@ -4,10 +4,7 @@
   box-sizing: border-box;
 }
 
-body {
-  touch-action: ;
-  
-}
+
 body {
   background: #9384d1;
   min-height: 100vh;
@@ -36,6 +33,7 @@ body {
 
   border-radius: 7px;
   box-shadow: 10px 10px 15px #313030;
+  overflow: hidden;
   
 }
 
